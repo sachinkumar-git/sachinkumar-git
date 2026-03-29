@@ -4,9 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:7AA2F7&height=200&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=E0E0FF&fontAlignY=38&desc=CSE%20(AI/ML)%20%7C%20Patent%20Holder%20%7C%20Builder&descAlignY=60&descSize=18&descColor=7AA2F7&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&repeat=true&width=600&lines=AI+%2F+ML+Engineer+in+Progress+%F0%9F%A7%A0;Published+Patent+Holder+%40+SRMAP+%F0%9F%93%9C;Full-Stack+MERN+Architect+%F0%9F%9A%80;System+Design+%26+DSA+Enthusiast+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%94%A7" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&repeat=true&width=600&lines=AI+%2F+ML+Engineer+in+Progress+%F0%9F%A7%A0;Published+Patent+Holder+%F0%9F%93%9C;Full-Stack+MERN+Developer+%F0%9F%9A%80;System+Design+%26+DSA+Enthusiast+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%94%A7" />
+  </a>
+</div>
 
 
 </div>
