@@ -77,13 +77,7 @@ const sachin = {
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
 
-### 🔧 DevOps & Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
 
 </div>
 
@@ -103,26 +97,6 @@ const sachin = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar-git&theme=tokyo-night&hide_border=true&area=true&area_color=7AA2F7" width="95%" />
 </div>
-
----
-
-## 🗺️ Current Engineering Roadmap
-
-```
-[Q2 2025 — Active]
-│
-├── 🧩  DSA Mastery
-│       └── Advanced Graphs · Dynamic Programming · LLD in C++
-│
-├── 🏗️  System Design
-│       └── HLD → LLD pipelines · Database sharding · Caching strategies
-│
-├── 🌐  Full-Stack Engineering
-│       └── MERN architecture · Redis caching · API optimization · Auth systems
-│
-└── 🤖  AI/IoT Research
-        └── Edge-to-Cloud sync · Scaling patent-grade trolley system · CV pipelines
-```
 
 ---
 
