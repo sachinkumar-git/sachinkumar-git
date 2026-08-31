@@ -83,18 +83,9 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 </div>
 
 ---
-
 ## `~/` github-analytics
 
 <div align="center">
-
-<br><br>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=sachinkumar-git&show_icons=true&title_color=22D3EE&icon_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true&rank_icon=github&card_width=400"
-  alt="GitHub Stats"
-/>
 
 <img
   width="49%"
@@ -105,16 +96,8 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 <br><br>
 
 <img
-  width="60%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar-git&layout=donut&title_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true&langs_count=8"
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar-git&bg_color=0D1117&color=E6EDF3&line=22D3EE&point=FFFFFF&area_color=171B3A&hide_border=true"
   width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar-git"
   alt="Activity Graph"
 />
 
@@ -122,63 +105,9 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 
 ## 🌐 Let's Connect
 
-<div align="center">
+<p align="center"><a href="https://www.linkedin.com/in/sachin-sde"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" valign="middle"> <b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sachinkumar.co.in"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio" valign="middle"> <b>Portfolio</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sachin80510@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" valign="middle"> <b>Gmail</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sachinkumar-git"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" valign="middle"> <b>GitHub</b></a></p>
 
-<table>
-<tr>
-
-<td align="center">
-  <a href="https://www.linkedin.com/in/sachin-sde">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn">
-  </a>
-</td>
-
-<td>
-  <a href="https://www.linkedin.com/in/sachin-sde"><b>LinkedIn</b></a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-  <a href="mailto:sachin80510@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail">
-  </a>
-</td>
-
-<td>
-  <a href="mailto:sachin80510@gmail.com"><b>Gmail</b></a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-  <a href="https://www.sachinkumar.co.in">
-    <img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio">
-  </a>
-</td>
-
-<td>
-  <a href="https://www.sachinkumar.co.in"><b>Portfolio</b></a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-  <a href="https://github.com/sachinkumar-git">
-    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
-  </a>
-</td>
-
-<td>
-  <a href="https://github.com/sachinkumar-git"><b>GitHub</b></a>
-</td>
-
-</tr>
-</table>
-
-<sub> Open to internships · collaborations · building cool things</sub>
-
-</div>
+<p align="center"><sub>⚡ Open to internships · collaborations · building cool things</sub></p>
 
 <div align="center">
 
