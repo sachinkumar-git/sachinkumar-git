@@ -87,19 +87,27 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar-git&theme=dark&hide_border=true&ring=22D3EE&fire=22D3EE&sideNums=22D3EE&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=94A3B8"
-  alt="GitHub Streak"
-/>
+<table>
+<tr>
 
-<br><br>
+<td width="50%" align="center" valign="top">
+  <img
+    width="100%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar-git&theme=dark&background=0D1117&hide_border=true&stroke=171B3A&ring=22D3EE&fire=22D3EE&sideNums=22D3EE&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=94A3B8"
+    alt="GitHub Streak"
+  />
+</td>
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar-git"
-  alt="Activity Graph"
-/>
+<td width="50%" align="center" valign="top">
+  <img
+    width="100%"
+    src="https://ghstats.dev/api/langs?username=sachinkumar-git&layout=bar&bg=0D1117&text=E6EDF3&title_color=22D3EE&icon_color=22D3EE&border_color=171B3A&hide_border=true&border_radius=12"
+    alt="Top Languages"
+  />
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -107,7 +115,7 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 
 <p align="center"><a href="https://www.linkedin.com/in/sachin-sde"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" valign="middle"> <b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sachinkumar.co.in"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio" valign="middle"> <b>Portfolio</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sachin80510@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" valign="middle"> <b>Gmail</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sachinkumar-git"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" valign="middle"> <b>GitHub</b></a></p>
 
-<p align="center"><sub>⚡ Open to internships · collaborations · building cool things</sub></p>
+<p align="center"><sub> Open to internships · collaborations · building cool things</sub></p>
 
 <div align="center">
 
