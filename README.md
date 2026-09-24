@@ -32,7 +32,7 @@ const sachin = {
 };
 
 ```
-> 💡 =I build practical applications where AI, Full-Stack Web, and IoT meet-transforming ideas into working, real-world products.
+> 💡 I build practical applications where AI, Full-Stack Web, and IoT meet-transforming ideas into working, real-world products.
 --- 
 
 ## Featured Technical Research & Systems
@@ -58,31 +58,27 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 </table>
 
 ---
-
 ## Technical Skills
 
 <div align="center">
 
-**Core CS Fundamentals:** OOPs · DSA · Operating Systems · DBMS · Computer Organization & Architecture
-
 ### Languages
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![SQL](https://skillicons.dev/icons?i=mysql)
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux)
+### Frameworks and Libraries
+![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
 
-### Backend & Databases
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
+### Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase)
 
-### AI, ML & IoT
-`Machine Learning` · `Generative AI` · `Agentic AI` · `Embedded AI & IoT` · `Arduino`
-
-### Tools & Platform
+### Tools and Platform
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Terminal](https://skillicons.dev/icons?i=bash)
+
+### Core Competencies
+`Data Structures` · `Algorithms` · `OOPs` · `Operating Systems` · `DBMS` · `REST APIs`
 
 </div>
 
----
 ## GitHub Stats
 
 <div align="center">
