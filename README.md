@@ -35,7 +35,7 @@ const sachin = {
 > 💡 =I build practical applications where AI, Full-Stack Web, and IoT meet-transforming ideas into working, real-world products.
 --- 
 
-##Featured Technical Research & Systems
+## Featured Technical Research & Systems
 
 <table>
 <tr>
@@ -59,7 +59,7 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 
 ---
 
-##Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -111,7 +111,7 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 
 </div>
 
-## Let's Connec
+## Let's Connect
 
 <p align="center"><a href="https://www.linkedin.com/in/sachin-sde"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" valign="middle"> <b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sachinkumar.co.in"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio" valign="middle"> <b>Portfolio</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sachin80510@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" valign="middle"> <b>Gmail</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sachinkumar-git"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" valign="middle"> <b>GitHub</b></a></p>
 
