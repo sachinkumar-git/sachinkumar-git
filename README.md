@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/sachinkumar-git">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+%26+AI%2FML+Engineer;Published+Patent+Holder+%7C+Full-Stack+Developer;Building+Intelligent%2C+Real-World+Systems" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI-Powered+Systems+Builder;Published+Patent+Inventor;Building+Real-World+Software+Systems" alt="Typing Banner">
 </a>
 
 <a href="https://www.linkedin.com/in/sachin-sde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -23,17 +23,13 @@
 
 ## Who Am I
 
-```typescript
-const sachin = {
-  patent       : "Published Inventor — AI-Enabled Smart Trolley System",
-  stack        : ["React", "Node.js", "Express", "MongoDB", "MySQL", "Python", "C++"],
-  currentFocus : ["DSA", "System Design", "Agentic AI", "Embedded IoT"],
-  philosophy   : "Ship fast. Think deeper. Break things. Rebuild better."
-};
+<div align="center">
 
-```
-> 💡 I build practical applications where AI, Full-Stack Web, and IoT meet-transforming ideas into working, real-world products.
---- 
+Full-Stack Developer & AI Systems Builder<br/>
+building scalable web applications, intelligent systems, and practical solutions for real-world problems.
+
+</div>
+
 
 ## Featured Technical Research & Systems
 
@@ -71,7 +67,7 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
 ### Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase)
 
-### Tools and Platform
+### Tools and Platforms
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Terminal](https://skillicons.dev/icons?i=bash)
 
 ### Core Competencies
@@ -119,7 +115,5 @@ An autonomous, IoT-integrated retail navigation framework using Computer Vision,
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:171B3A,100:22D3EE&height=120&section=footer&animation=fadeIn"
 />
-
-<b><i>"The best systems are built not just with code - but with clarity of thought."</i></b>
 
 </div>
