@@ -39,7 +39,7 @@ building scalable web applications, intelligent systems, and practical solutions
 
 **AI-Enabled Smart Trolley System**
 <br>
-<sub>*Published Patent (App. No. 202541110198)*</sub>
+<sub>*Published Patent ( App. No. 202541110198 )*</sub>
 
 An autonomous, IoT-integrated retail navigation framework using Computer Vision, autonomous navigation, RFID-based real-time billing, and edge analytics.
 
